@@ -9,14 +9,6 @@
 
 ---
 
-## 📸 Preview
-
-| Home | Dashboard |
-|------|-----------|
-| ![Home](/.github/home.png) | ![Dashboard](/.github/dashboard.png) |
-
----
-
 ## ✨ Funcionalidades
 
 - **Autenticação** com Google via NextAuth.js
